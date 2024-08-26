@@ -1,1 +1,47 @@
-hola
+Ciclo de vida del Desarrollo de Software integra Desarrollo, Interno, Dutsouicing, Softwareroom
+
+1. Identificación de problemas-oportunidades-mejoras
+
+-Oportunidades (automatización)
+-Estudio de factibilidad (Economiía, Tecnico, Operativo(Se refiere a los usuarios), Legislativo(Derechos de autor)))
+-Riesgos
+-Decision
+-Conformar equipo de trabajo
+-Planificacion de proyecto
+
+2. Análisis y diseño de Sistemas
+
+Técnica rec. inf
+Identificar tecnicas con las que voy a trabajr los datos RF y R.N.F
+DFDs
+Lenguaje estructurado (Pseudocodigo)
+Arbol de decisión
+Tablas de "
+DEM (Módulos)
+EER (entidades, atributos, relaciones
+DD (Metadatos)
+DOC
+
+3. Diseño de Sistemas
+
+-GUI( Pantallas, Formularios E-S
+
+4. Desarrollo de Sistemas
+
+Se elige el lenguaje de programacion, hay que ver el IDE, Las librerias
+Herramientas Case
+
+5. Pruebas
+
+Pruebas de Unidad
+Pruebas de INtegración
+Pruebas de Sistemas
+Pruebas de Alpha, Las pruebas alfas son las que se hacen en el mismo lugar
+
+6. Implantacion
+
+Instalacion, configurar
+Pruebas Beta. Las pruebas betas se hace ya en el momento final con el usuario
+Pruebas de aceptación
+
+7. Mantenimiento
